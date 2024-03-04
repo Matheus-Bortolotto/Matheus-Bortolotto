@@ -6,7 +6,7 @@
 
 ![Matheus Bortolotto GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Bortolotto&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Bortolotto)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
 
